@@ -1,4 +1,4 @@
-# Pharmacy_PointOfSaleTerminal
+# Pharmacy Point Of Sale Terminal
 
 ANNOYING INTERFACE.
 
